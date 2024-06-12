@@ -4,7 +4,6 @@ Welcome to the Airline Customer Segmentation project! In this project,
 we aim to analyze customer value using the LRFMC model (Length, Recency, Frequency, Monetary, Customer Cost) from the aviation dataset.
 
 ## Introduction
-
 Customer segmentation is a crucial aspect of marketing strategy, 
 allowing businesses to better understand their customers' value and preferences. 
 By segmenting customers based on their value, airlines can personalize marketing efforts, improve customer retention, and optimize resource allocation.
@@ -32,7 +31,6 @@ The main objectives of this project are:
 5. **Evaluation**: Evaluate the segmentation results and analyze the characteristics of each customer segment.
 
 ## Code Overview
-
 The code provided includes the following sections:
 - **Data Loading and Exploration**: Load the aviation dataset and explore its features and distributions.
 - **Data Cleaning**: Clean the dataset by handling missing values, outliers, and inconsistencies.
